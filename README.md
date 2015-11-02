@@ -12,3 +12,6 @@ Original script was developed by Subbrute team , kudos to them.
 `$ chmod +x spoodle.py`
 
 `$ ./spoodle.py twitter.com`
+
+![alt tag](http://i.imgur.com/mLElsDo.gif)
+
