@@ -39,7 +39,7 @@ starttls_modes  = defaultdict(str)
 
 
 # Parse args
-parser = ArgumentParser()
+parser = ArgumentParser(add_help=False)
 parser.add_argument("-c", "--concise",    dest="concise",   default=None,                 action="store_true",  help="make output concise")
 parser.add_argument("-4", "--ipv4",       dest="ipv4",      default=True,                 action="store_true",  help="turn on IPv4 scans (default)")
 parser.add_argument("-6", "--ipv6",       dest="ipv6",      default=True,                 action="store_true",  help="turn on IPv6 scans (default)")
