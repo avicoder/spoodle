@@ -16,7 +16,7 @@ import ctypes
 import json
 import socket
 import struct
-import pussy
+import poodle
 
 #Some Coloring
 r = '\033[31m' #red
