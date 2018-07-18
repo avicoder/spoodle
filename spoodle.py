@@ -486,7 +486,7 @@ def print_target(target, query_type = "ANY", subdomains = "names.txt", resolve_l
         if result:
 
             print b+">> "+g+result
-            pussy.scan_host(result)
+            poodle.scan_host(result)
             sys.stdout.flush()
             if hostname in json_struct:
                 if record_type in json_struct:
