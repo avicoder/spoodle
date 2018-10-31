@@ -27,5 +27,5 @@ A mass subdomain + poodle vulnerability scanner
 ![alt tag](http://i.imgur.com/mLElsDo.gif)
 
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vjex/spoodle/issues)
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/avicoder/spoodle/issues)
 
